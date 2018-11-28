@@ -1,0 +1,14 @@
+D:\Proiecte C#\HowYouType\HowYouType\bin\Debug\netcoreapp2.1\HowYouType.deps.json
+D:\Proiecte C#\HowYouType\HowYouType\bin\Debug\netcoreapp2.1\HowYouType.runtimeconfig.json
+D:\Proiecte C#\HowYouType\HowYouType\bin\Debug\netcoreapp2.1\HowYouType.runtimeconfig.dev.json
+D:\Proiecte C#\HowYouType\HowYouType\bin\Debug\netcoreapp2.1\HowYouType.dll
+D:\Proiecte C#\HowYouType\HowYouType\bin\Debug\netcoreapp2.1\HowYouType.pdb
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.csprojAssemblyReference.cache
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.csproj.CoreCompileInputs.cache
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.RazorAssemblyInfo.cache
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.RazorAssemblyInfo.cs
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.AssemblyInfoInputs.cache
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.AssemblyInfo.cs
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.RazorTargetAssemblyInfo.cache
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.dll
+D:\Proiecte C#\HowYouType\HowYouType\obj\Debug\netcoreapp2.1\HowYouType.pdb
