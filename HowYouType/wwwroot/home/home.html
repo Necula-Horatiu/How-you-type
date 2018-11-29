@@ -6,15 +6,17 @@
     <link href="../css/style.css" />
 </head>
 <body>
-    <div class="container">
-        <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+    <div ng-controller="homeController as vm">
+        <div class="container">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" ng-model="vm.input">
+            </div>
+            <div class="input-group mb-3">
+                <input type="password" class="form-control" placeholder="Password" aria-label="Username" aria-describedby="basic-addon1">
+            </div>
+            <button class="btn btn-success" ng-click="vm.show()">Save Me</button>
+            <button class="btn btn-success">Find Me</button>
         </div>
-        <div class="input-group mb-3">
-            <input type="password" class="form-control" placeholder="Password" aria-label="Username" aria-describedby="basic-addon1">
-        </div>
-        <button class="btn btn-success">Save Me</button>
-        <button class="btn btn-success">Find Me</button>
     </div>
 </body>
 </html>
