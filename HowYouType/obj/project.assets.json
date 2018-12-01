@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proiecte C#\\HowYouType\\HowYouType\\HowYouType.csproj",
+      "projectUniqueName": "C:\\Users\\Horatiu\\Desktop\\How-you-type\\HowYouType\\HowYouType.csproj",
       "projectName": "HowYouType",
-      "projectPath": "D:\\Proiecte C#\\HowYouType\\HowYouType\\HowYouType.csproj",
+      "projectPath": "C:\\Users\\Horatiu\\Desktop\\How-you-type\\HowYouType\\HowYouType.csproj",
       "packagesPath": "C:\\Users\\Horatiu\\.nuget\\packages\\",
-      "outputPath": "D:\\Proiecte C#\\HowYouType\\HowYouType\\obj\\",
+      "outputPath": "C:\\Users\\Horatiu\\Desktop\\How-you-type\\HowYouType\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

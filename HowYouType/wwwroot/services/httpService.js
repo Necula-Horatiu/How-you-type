@@ -9,7 +9,6 @@
 
         function get(path) {
             var deferred = $q.defer();
-
             $http.get(backendConfig.url + path).then(
                 function (response) {
                     deferred.resolve(response);

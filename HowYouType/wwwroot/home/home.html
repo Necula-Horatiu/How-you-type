@@ -9,13 +9,17 @@
     <div ng-controller="homeController as vm">
         <div class="container">
             <div class="input-group mb-3">
-                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" ng-model="vm.input">
+                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" ng-model="vm.name">
             </div>
             <div class="input-group mb-3">
-                <input type="password" class="form-control" placeholder="Password" aria-label="Username" aria-describedby="basic-addon1">
+                <input type="text" class="form-control" placeholder="Introdu textul de mai jos" aria-label="Username" aria-describedby="basic-addon1" ng-model="vm.pass">
             </div>
+            <h4 ng-if="vm.text0">Salut, mereu am crezut despre mine ca sunt o persoana aratoasa si desteapta!</h4>
+            <h4 ng-if="vm.text1">Hei, vulpea roscata a sarit in gradina cu gaini si a furat una.</h4>
+            <h4 ng-if="vm.text2">Intr-o zi ma gandisem sa merg la padure dupa fragi si dupa mure!</h4>
             <button class="btn btn-success" ng-click="vm.show()">Save Me</button>
-            <button class="btn btn-success">Find Me</button>
+            <button class="btn btn-success" ng-click="vm.show2()">Do i Have an account?</button>
+            <button class="btn btn-success" ng-click="vm.show3()">Check Me</button>
         </div>
     </div>
 </body>
